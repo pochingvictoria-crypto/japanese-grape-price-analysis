@@ -1,5 +1,6 @@
 # Japanese Grape Price Analysis
 ## From Intuition to Data — Explaining Japanese Grape Prices Through Variety Systems and Appearance
+## 直感からデータへ：品種構造と外観から読み解く日本の葡萄価格
 ### Overview
 
 This project explores how grape prices in the Japanese market are formed, focusing on the relationship between grape variety systems and physical appearance.
