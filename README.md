@@ -14,7 +14,7 @@ This project investigates how grape prices are formed through a structured analy
 
 The goal is to understand how different factors jointly influence pricing, rather than relying on a single explanation.
 
-## 🇯🇵 プロジェクト概要
+## プロジェクト概要
 
 高級果実市場において、ぶどうの価格は品種・サイズ・外観など複数の要因に影響される。
 
@@ -43,7 +43,7 @@ This project is organized into four main notebooks:
    → Regression and machine learning models with feature interactions  
 
 
-## 🇯🇵 分析構成
+## 分析構成
 
 本プロジェクトは以下の4つのNotebookで構成されています：
 
@@ -73,7 +73,7 @@ This project is organized into four main notebooks:
 
 - Overall, grape pricing is best explained by a combination of variety, appearance, and their interactions  
 
-## 🇯🇵 主な知見
+## 主な知見
 
 - 品種グループ間で価格水準および外観特徴に一定の違いが見られた  
 
@@ -95,7 +95,7 @@ This project is organized into four main notebooks:
 - Missing variables (e.g., sugar content, branding)  
 - Some shape categories not analyzed due to limited data  
 
-## 🇯🇵 制約
+## 制約
 
 - サンプル数が少ない（約200件）  
 - 手動測定による誤差  
@@ -113,7 +113,7 @@ The findings suggest potential applications in:
 - Data-driven pricing strategies  
 - Aligning production with market expectations  
 
-## 🇯🇵 農業への意義
+## 農業への意義
 
 本分析は、農産物価格が単一要因ではなく複数要素の組み合わせによって決まることを示した。
 
@@ -131,7 +131,7 @@ The results indicate that pricing is shaped by the interaction between variety a
 
 Despite data limitations, this study provides a structured approach to understanding agricultural pricing through data analysis.
 
-## 🇯🇵 まとめ
+## まとめ
 
 本プロジェクトは、「見た目が良い＝高そう」という直感をデータで説明可能な形にする試みである。
 
