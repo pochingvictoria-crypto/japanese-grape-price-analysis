@@ -59,7 +59,7 @@ This project is organized into four main notebooks:
 4. **04_modeling.ipynb**  
    → 回帰分析および交互作用を含むモデリング
 
-## 📊 Key Findings
+## Key Findings
 
 - Some differences were observed between grape variety groups (e.g., Shine Muscat vs Kyoho) in both price levels and physical characteristics  
 
