@@ -26,7 +26,7 @@ The goal is to understand how different factors jointly influence pricing, rathe
 
 単一要因ではなく、複数要素の組み合わせによる価格形成を理解することを目的とする。
 
-## 🧩 Analysis Structure
+## Analysis Structure
 
 This project is organized into four main notebooks:
 
